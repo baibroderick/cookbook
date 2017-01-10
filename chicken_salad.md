@@ -1,18 +1,18 @@
 # Chicken Salad
 
-2 Chicken breasts
-1/2c. Sour Cream
-1-1.5c. Mayo
-1/4c. Yellow Mustard
-1c. Chopped Celery
-3/4c. Chopped Grapes
-1/2c. Chopped Almonds
-1tbsp Paprika
-2tbsp Olive Oil
-2tbsp Parsley
-1tbsp Dill
-TT Salt
-TT Pepper
+* 2 Chicken breasts
+* 1/2c. Sour Cream
+* 1-1.5c. Mayo
+* 1/4c. Yellow Mustard
+* 1c. Chopped Celery
+* 3/4c. Chopped Grapes
+* 1/2c. Chopped Almonds
+* 1tbsp Paprika
+* 2tbsp Olive Oil
+* 2tbsp Parsley
+* 1tbsp Dill
+* TT Salt
+* TT Pepper
 
 ## Steps
 
