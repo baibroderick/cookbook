@@ -27,3 +27,7 @@
 5. Mix chicken, and all other ingredients in a large bowl.
 
 6. Chill the mixture and then salt and pepper to taste.
+
+### Serve
+
+Serve on toasted bread with mayo.
