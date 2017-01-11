@@ -15,3 +15,5 @@
 3. Temper the milk into the dry ingredients.
 
 4. Whip ingredients into the boiling milk and stir well until thickened.
+
+### Serve over warm biscuits.
